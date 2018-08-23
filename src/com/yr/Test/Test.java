@@ -4,6 +4,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("ËÎ´ºÔª");
 	
+		System.out.println(888888);
 	}
 
 }
