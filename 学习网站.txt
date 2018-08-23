@@ -1,0 +1,67 @@
+Spring AOP 代理模式底层实现 https://www.cnblogs.com/lyb0103/p/7658581.html
+
+Spring AOP的代理模式详解 https://blog.csdn.net/judyfun/article/details/45974223
+
+Spring JdbcTemplate方法详解 https://blog.csdn.net/dyllove98/article/details/7772463
+
+Spring 事务七种的传播属性：https://blog.csdn.net/wangligong/article/details/53224676
+
+spring事物配置，声明式事务管理和基于@Transactional注解的使用:https://blog.csdn.net/bao19901210/article/details/41724355
+
+Spring的声明式事务管理详解：https://blog.csdn.net/u011726984/article/details/45421151
+
+理解事务的4种隔离级别：https://blog.csdn.net/qq_33290787/article/details/51924963
+
+QQ http://gameapp.qq.com/353?via=QZ.XX.TOOLBAR.APPID358?via=QZ.XX.TOOLBAR.APPID353
+
+Spring事务传播机制：https://www.cnblogs.com/softidea/p/5962612.html
+
+农场助手：http://m.crsky.com/soft/23236.html
+
+	
+quartz详解2：quartz由浅入深: https://blog.csdn.net/guolong1983811/article/details/51501346
+
+
+Maven使用详解，非常详细:https://blog.csdn.net/hcmony/article/details/56013655
+
+Maven创建java  mvn archetype:generate -DgroupId=com.cyf -DartifactId=cms -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeCatalog=internal 然后进入cms里面 执行 mvn eclipse：eclipse
+
+
+Maven坐标详解:https://www.cnblogs.com/xing901022/p/4170248.html
+
+Spirngmvc拦截器： http://www.cnblogs.com/xiaoxi/p/6256812.html
+
+http://www.cnblogs.com/xing901022/p/5240044.html
+
+动态SQL:https://www.cnblogs.com/ysocean/p/7289529.html#_label3
+
+一对多关联:https://www.cnblogs.com/xdp-gacl/p/4264440.html
+ 
+用mybatis实现简单的CRUD https://blog.csdn.net/xiangwanpeng/article/details/53750628
+
+https://www.cnblogs.com/dudu/archive/2011/12/07/asp_net_mvc_form_ajax.html
+https://www.cnblogs.com/xing901022/p/4356135.html
+
+拦截器用户登录  https://www.cnblogs.com/limn/p/8733126.html
+
+https://blog.csdn.net/qq_33764491/article/details/77440180#commentBox
+
+https://blog.csdn.net/wyf2017/article/details/78939303
+
+普通用户登录https://www.cnblogs.com/xing901022/p/4356135.html
+
+ajax https://www.cnblogs.com/wanghp/p/6991554.html
+
+解决头文件错误:https://blog.csdn.net/testcs_dn/article/details/50317239
+
+设置数据库UTF-8 https://blog.csdn.net/clare504/article/details/9569347
+
+https://jingyan.baidu.com/article/17bd8e522a908085ab2bb89d.html
+
+查看MYSQL位置  select @@basedir as basePath from dual 
+http://www.rpmfind.net/linux/rpm2html/search.php?query=openssl-libs&submit=Search+...&system=&arch=
+
+
+WebService详解 https://www.cnblogs.com/xdp-gacl/p/4048937.html
+
+oracle中创建序列以及序列使用注意事项:https://blog.csdn.net/zhengqiqiqinqin/article/details/9068923
