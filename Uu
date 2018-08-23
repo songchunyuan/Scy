@@ -1,6 +1,8 @@
 public class User(){
   public static void main(String args){
     Sysotem out println(966666);
+    Sysotem out println(6666666);
+    Sysotem out println(88888888);
   }
 
 }
